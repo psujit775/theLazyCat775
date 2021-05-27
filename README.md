@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @theLazyCat775
+- 🌱 I’m currently learning SRE tools
+- 💞️ I’m looking to collaborate on pyhton project
+- 📫 How to reach me psujit775@gmail.com
+
+<!---
+theLazyCat775/theLazyCat775 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->

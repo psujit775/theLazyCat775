@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theLazyCat775
+- 👋 Hi, I’m Sujit Patel
 - 🌱 I’m currently learning SRE tools
 - 💞️ I’m looking to collaborate on pyhton project
 - 📫 How to reach me psujit775@gmail.com

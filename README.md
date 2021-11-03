@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sujit Patel
-- 🌱 I’m currently learning SRE tools
+- 🌱 I’m currently learning while working as a Site Reliability Engineer
 - 💞️ I’m looking to collaborate on pyhton project
 - 📫 How to reach me psujit775@gmail.com
 
